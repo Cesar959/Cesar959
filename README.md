@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="right" src="https://raw.githubusercontent.com/Cesar959/Cesar959/master/imagem/imagem-ilustracao.png" width="450" alt="imagem de ilustração"/>
 
-<!--
-**Cesar959/Cesar959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# CESAR DOS SANTOS DE ALMEIDA  
 
-Here are some ideas to get you started:
+Olá, Tudo bem? :wave: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Na minha maquina funciona !!! :sweat_smile:
+
+O meu nome é Cesar mas pode me chamar de Cesinha.  
+sou desenvolvedor web júnior e apaixonado  
+por programação :heart:, sempre estou estudando e praticando  
+para evoluir as minhas habilidades 🔭.
+
+- :house: Taubaté, SP, Brasil
+- :briefcase: Trabalhou na pentaxial de taubaté
+- 💬 Sobre mim: gosto de ler, filmes, estuda e etc.
