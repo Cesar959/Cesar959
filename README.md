@@ -4,8 +4,6 @@
 
 Olá, Tudo bem? :wave: 
 
-Na minha maquina funciona !!! :sweat_smile:
-
 O meu nome é Cesar mas pode me chamar de Cesinha.  
 sou desenvolvedor web júnior e apaixonado  
 por programação :heart:, sempre estou estudando e praticando  
