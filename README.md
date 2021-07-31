@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://raw.githubusercontent.com/Cesar959/Cesar959/master/imagem/imagem-ilustracao.png" width="450" alt="imagem de ilustração"/>
+<img align="right" src="https://raw.githubusercontent.com/Cesar959/Cesar959/master/imagem/imagem-ilustracao.png" width="450" alt="imagem de ilustração"/>
 
 # CESAR DOS SANTOS DE ALMEIDA  
 
@@ -13,7 +13,7 @@ para evoluir as minhas habilidades 🔭.
 - :briefcase: Trabalhou na pentaxial de taubaté
 - 💬 Sobre mim: gosto de ler, filmes, estuda e etc.
 
-<hr> -->
+<hr>
 
  <div style="width:100%;text-align: center; margin: auto;">
   <a href="https://github.com/Cesar959">
