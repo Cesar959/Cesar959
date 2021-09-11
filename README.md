@@ -13,7 +13,6 @@ para evoluir as minhas habilidades 🔭.
 - :briefcase: Trabalhou na pentaxial de taubaté
 - 💬 Sobre mim: gosto de ler, filmes, estuda e etc.
 
-<hr>
 
  <div style="width:100%;text-align: center; margin: auto;">
   <a href="https://github.com/Cesar959">
