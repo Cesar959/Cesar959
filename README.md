@@ -4,10 +4,8 @@
 
 Olá, Tudo bem? :wave: 
 
-O meu nome é Cesar mas pode me chamar de Cesinha.  
-sou desenvolvedor web júnior e apaixonado  
-por programação :heart:, sempre estou estudando e praticando  
-para evoluir as minhas habilidades 🔭.
+O meu nome é Cesar mas pode me chamar de Cesinha. sou desenvolvedor web júnior e apaixonado  
+por programação :heart:, sempre estou estudando e praticando para evoluir as minhas habilidades 🔭.
 
 - :house: Taubaté, SP, Brasil
 - :briefcase: Trabalhou na pentaxial de taubaté
