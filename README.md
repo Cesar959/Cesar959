@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/Cesar959/Cesar959/master/imagem/imagem-ilustracao.png" width="450" alt="imagem de ilustração"/>
+
 
 # CESAR DOS SANTOS DE ALMEIDA  
 
