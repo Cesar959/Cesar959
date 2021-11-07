@@ -13,17 +13,17 @@ O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior
 ##
 
 <div>
-  <img src="img/html5.svg" style="width: 200px;" alt="Html">
-  <img src="img/css3.svg" style="width: 200px;" alt="Css">
-  <img src="img/javascript.svg" style="width: 200px;" alt="Javascript">
-  <img src="img/sass.svg" style="width: 200px;" alt="Sass">
-  <img src="img/php.svg" style="width: 200px;" alt="PHP">
-  <img src="img/bootstrap.svg" style="width: 200px;" alt="Bootstrap">
-  <img src="img/mysql.svg" style="width: 200px;" alt="Mysql">
-  <img src="img/git.svg" style="width: 200px;" alt="Git">
-  <img src="img/github.svg" style="width: 200px;" alt="GitHub">
-  <img src="img/figma.svg" style="width: 200px;" alt="Figma">
-  <img src="img/composer.svg" style="width: 200px;" alt="Composer">
+  <img src="img/html5.svg" style="width: 100px;" alt="Html">
+  <img src="img/css3.svg" style="width: 100px;" alt="Css">
+  <img src="img/javascript.svg" style="width: 100px;" alt="Javascript">
+  <img src="img/sass.svg" style="width: 100px;" alt="Sass">
+  <img src="img/php.svg" style="width: 100px;" alt="PHP">
+  <img src="img/bootstrap.svg" style="width: 100px;" alt="Bootstrap">
+  <img src="img/mysql.svg" style="width: 100px;" alt="Mysql">
+  <img src="img/git.svg" style="width: 100px;" alt="Git">
+  <img src="img/github.svg" style="width: 100px;" alt="GitHub">
+  <img src="img/figma.svg" style="width: 100px;" alt="Figma">
+  <img src="img/composer.svg" style="width: 100px;" alt="Composer">
 </div>
 
 ##
