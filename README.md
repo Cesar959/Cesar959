@@ -4,15 +4,35 @@
 
 Olá, Tudo bem? :wave: 
 
-O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior e apaixonado por programação, sempre estou estudando e praticando para evoluir as minhas habilidades. Trabalho com Html, Css, JavaScript, Ajax, Sass, PHP, Bootstrap, MySQL, Git e GitHub. No momento atuo na área de Front-end mas também tenho conhecimento em Back-end.
-
-- :house: Taubaté, SP, Brasil
-- :briefcase: Trabalhou na pentaxial de taubaté
-- 💬 Sobre mim: gosto de ler, filmes, estuda e etc.
+O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior e apaixonado por programação, sempre estou estudando e praticando para evoluir as minhas habilidades. Trabalho com Html, Css, JavaScript, Ajax, Sass, PHP, POO, PDO, Bootstrap, MySQL, Git, GitHub, Composer e Figma. No momento atuo na área de Front-end mas também tenho conhecimento em Back-end.
 
 <br>
 
 **" Cedo ou Tarde Você Descobrirá a Diferença entre Saber o Caminho e Percorrer o Caminho " - Matrix**
+
+##
+
+<div>
+  <img src="img/html5.svg" alt="Html">
+  <img src="img/css3.svg" alt="Css">
+  <img src="img/javascript.svg" alt="Javascript">
+  <img src="img/sass.svg" alt="Sass">
+  <img src="img/php.svg" alt="PHP">
+  <img src="img/bootstrap.svg" alt="Bootstrap">
+  <img src="img/mysql.svg" alt="Mysql">
+  <img src="img/git.svg" alt="Git">
+  <img src="img/github.svg" alt="GitHub">
+  <img src="img/figma.svg" alt="Figma">
+  <img src="img/composer.svg" alt="Composer">
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/cesarsantosalmeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://api.whatsapp.com/send?phone=5512996811514" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+  <a href="mailto:cesarsantosss499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
 
 <br>
 
