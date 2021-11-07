@@ -13,17 +13,17 @@ O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior
 ##
 
 <div>
-  <img src="img/html5.svg" alt="Html">
-  <img src="img/css3.svg" alt="Css">
-  <img src="img/javascript.svg" alt="Javascript">
-  <img src="img/sass.svg" alt="Sass">
-  <img src="img/php.svg" alt="PHP">
-  <img src="img/bootstrap.svg" alt="Bootstrap">
-  <img src="img/mysql.svg" alt="Mysql">
-  <img src="img/git.svg" alt="Git">
-  <img src="img/github.svg" alt="GitHub">
-  <img src="img/figma.svg" alt="Figma">
-  <img src="img/composer.svg" alt="Composer">
+  <img src="img/html5.svg" style="width: 200px;" alt="Html">
+  <img src="img/css3.svg" style="width: 200px;" alt="Css">
+  <img src="img/javascript.svg" style="width: 200px;" alt="Javascript">
+  <img src="img/sass.svg" style="width: 200px;" alt="Sass">
+  <img src="img/php.svg" style="width: 200px;" alt="PHP">
+  <img src="img/bootstrap.svg" style="width: 200px;" alt="Bootstrap">
+  <img src="img/mysql.svg" style="width: 200px;" alt="Mysql">
+  <img src="img/git.svg" style="width: 200px;" alt="Git">
+  <img src="img/github.svg" style="width: 200px;" alt="GitHub">
+  <img src="img/figma.svg" style="width: 200px;" alt="Figma">
+  <img src="img/composer.svg" style="width: 200px;" alt="Composer">
 </div>
 
 ##
