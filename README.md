@@ -29,19 +29,17 @@ O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior
 
 ##
 
-<br>
 
- 
+ ### Estatísticas 
  <div>
   <a href="https://github.com/Cesar959">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesar959&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar959&&langs_count=10&theme=tokyonight"/>
 </div>
 
-<br>
-
 ## 
 
+ ### Contato
 <div>
   <a href="https://www.linkedin.com/in/cesarsantosalmeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://api.whatsapp.com/send?phone=5512996811514" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
