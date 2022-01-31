@@ -12,7 +12,7 @@ O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior
 
 ##
 
-### Conhecimentos
+### Hard Skills
 <div>
   <img src="img/html5.svg" style="width: 60px;" alt="Html">
   <img src="img/css3.svg" style="width: 60px;" alt="Css">
