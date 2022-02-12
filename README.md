@@ -9,7 +9,7 @@ O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior
 <br/>
 
 <div align="center">
-    <a href="https://github.com/Cesar959/lista-projetos"><img src="img/botao.png" alt="Conheça os meus projetos" width="200" height="auto"></a>
+    <a href="https://github.com/Cesar959/lista-projetos" target="_blank"><img src="img/botao.png" alt="Conheça os meus projetos" width="200" height="auto"></a>
 </div>
 
 ##
