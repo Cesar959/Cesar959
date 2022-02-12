@@ -6,11 +6,8 @@ Olá, Tudo bem? :wave:
 
 O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior e apaixonado por programação, sempre estou estudando e praticando para evoluir as minhas habilidades. Trabalho com Html, Css, JavaScript, Ajax, Sass, PHP, POO, PDO, DAO, Node.js, MVC, Consumo e criação de APIs, Express.js, Bootstrap, MySQL, Mariadb, Git, GitHub, Composer, Insomnia, phpMyAdmin, Xampp e Figma. No momento atuo na área de Front-end mas também tenho conhecimento em Back-end.
 
-<br>
-
-**" Cedo ou Tarde Você Descobrirá a Diferença entre Saber o Caminho e Percorrer o Caminho " - Matrix**
-
 <br/>
+
 <div align="center">
     <a href="https://github.com/Cesar959/lista-projetos"><img src="img/botao.png" alt="Conheça os meus projetos" width="200" height="auto"></a>
 </div>
