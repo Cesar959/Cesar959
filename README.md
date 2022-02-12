@@ -10,9 +10,10 @@ O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior
 
 **" Cedo ou Tarde Você Descobrirá a Diferença entre Saber o Caminho e Percorrer o Caminho " - Matrix**
 
-<p align="center">
+<br/>
+<div align="center">
     <a href="https://github.com/Cesar959/lista-projetos"><img src="img/botao.png" alt="Conheça os meus projetos" width="200" height="auto"></a>
-</p>
+</div>
 
 ##
 
