@@ -4,7 +4,7 @@
 
 Olá, Tudo bem? :wave: 
 
-O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior e apaixonado por programação, sempre estou estudando e praticando para evoluir as minhas habilidades. Trabalho com Html, Css, JavaScript, Ajax, Sass, PHP, POO, PDO, DAO, Node.js, MVC, Consumo e criação de APIs, Express.js, React, Bootstrap, MySQL, Mariadb, Git, GitHub, Composer, Insomnia, phpMyAdmin, Xampp, NPM, Figma e Kanban. No momento atuo na área de Front-end mas também tenho conhecimento em Back-end.
+O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior e apaixonado por programação, sempre estou estudando e praticando para evoluir as minhas habilidades. Trabalho com Html, Css, JavaScript, Ajax, Sass, PHP, POO, PDO, DAO, Node.js, MVC, Consumo e criação de APIs, Express.js, React, Bootstrap, MySQL, Mariadb, Git, GitHub, Composer, Insomnia, phpMyAdmin, Xampp, NPM, Cypress, Figma e Kanban. No momento atuo na área de Front-end mas também tenho conhecimento em Back-end.
 
 <br/>
 
@@ -30,6 +30,7 @@ O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior
   <img src="img/nodejs.svg" style="width: 60px;" alt="Node.js">
   <img src="img/express.svg" style="width: 60px;" alt="Express.js">
   <img src="img/react.svg" style="width: 60px;" alt="React.js">
+  <img src="img/cypress.svg" style="width: 60px;" alt="Cypress">
 </div>
 
 ##
