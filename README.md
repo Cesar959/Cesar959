@@ -4,7 +4,9 @@
 
 Olá, Tudo bem? :wave: 
 
-O meu nome é Cesar mas pode me chamar de Cesinha, sou desenvolvedor web júnior e apaixonado por programação, sempre estou estudando e praticando para evoluir as minhas habilidades. Trabalho com Html, Css, JavaScript, Ajax, Sass, PHP, POO, PDO, DAO, Node.js, MVC, Consumo e criação de APIs, Express.js, React, Bootstrap, MySQL, Mariadb, Git, GitHub, Composer, Insomnia, phpMyAdmin, Xampp, NPM, Cypress, Figma e Kanban. No momento atuo na área de Front-end mas também tenho conhecimento em Back-end.
+O meu nome é Cesar dos Santos de Almeida mas pode me chamar de Cesinha, sou desenvolvedor web júnior e apaixonado por programação. Sempre estou estudando e praticando para evoluir as minhas habilidades. Trabalho com Html, Css, JavaScript, Ajax, Sass, PHP, POO, PDO, DAO, Node.js, MVC, Consumo e criação de APIs, Express.js, React, Bootstrap, MySQL, Mariadb, Git, GitHub, Composer, Insomnia, phpMyAdmin, Xampp, NPM, Cypress, Figma, Postman e Kanban. Possuo conhecimentos em Front-end e Back-end.
+
+Para saber mais sobre os meus projetos Click no botão “Projetos” que está logo abaixo.
 
 <br/>
 
